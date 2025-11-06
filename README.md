@@ -1,1 +1,1 @@
-board-ads.github.io
+board-ads
